@@ -1,0 +1,11 @@
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\CapaDatos.dll
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\itextsharp.dll
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\bin\Debug\itextsharp.xml
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CopyComplete
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\bryan\source\repos\DesarrolloWeb_PP\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
